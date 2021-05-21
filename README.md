@@ -15,7 +15,6 @@ The Web3 RPC location will be picked up from the `truffle.js` file.
 0. Make sure `testrpc` is running on its default port. Then:
   - `npm run start` - Starts the development server
   - `npm run build` - Generates a build 
-  - `npm install --save-dev truffle-solidity-loader`
   - `truffle test` - Run the rest suite (there are no tests at the moment)
 
 If you `npm run start`, the app will be available at <http://localhost:3001>.
